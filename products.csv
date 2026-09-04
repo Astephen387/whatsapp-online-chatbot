@@ -1,0 +1,9 @@
+product_id,category,brand,model,name,description,price,stock,color,ram,storage,processor,screen_size,operating_system,compatibility,status
+PH001,Phone,Samsung,Galaxy S24,Samsung Galaxy S24,Latest flagship smartphone with AI features,500000,5,Black,8GB,256GB,Snapdragon 8 Gen 3,6.2 inches,Android 14,,active
+PH002,Phone,Apple,iPhone 15 Pro,Apple iPhone 15 Pro,Premium smartphone with titanium body,750000,3,Natural Titanium,8GB,256GB,A17 Pro,6.1 inches,iOS 17,,active
+PH003,Phone,Apple,iPhone 15,Apple iPhone 15,Advanced smartphone with Dynamic Island,600000,8,Black,6GB,128GB,A16 Bionic,6.1 inches,iOS 17,,active
+PH004,Phone,Samsung,Galaxy A55,Samsung Galaxy A55,Mid-range smartphone with great camera,300000,10,Blue,8GB,128GB,Exynos 1480,6.5 inches,Android 14,,active
+LP001,Laptop,Dell,XPS 16,Dell XPS 16,Premium laptop with OLED display,850000,2,Platinum,32GB,1TB SSD,Intel Core i9,16 inches,Windows 11 Pro,,active
+LP002,Laptop,HP,EliteBook 840,HP EliteBook 840,Business laptop with Intel Core i7,650000,3,Silver,16GB,512GB SSD,Intel Core i7,14 inches,Windows 11 Pro,,active
+AC001,Accessory,Apple,AirPods Pro 2,Apple AirPods Pro 2,Premium wireless earbuds with noise cancellation,85000,6,,,,,,,All phones,active
+AC002,Accessory,Samsung,Galaxy Buds 2 Pro,Samsung Galaxy Buds 2 Pro,Premium wireless earbuds with 360 audio,60000,8,,,,,,,All phones,active
